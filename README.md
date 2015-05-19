@@ -1,4 +1,5 @@
 # gulp-apimocker  [![Build Status](https://travis-ci.org/kent-wu/gulp-apimocker.svg?branch=master)](https://api.travis-ci.org/kent-wu/gulp-apimocker.svg)
+[![NPM](https://nodei.co/npm/gulp-apimocker.svg?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-apimocker/)
 
 > gulp plugin to run apimocker server to mock service responses.
 
