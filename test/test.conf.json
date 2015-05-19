@@ -6,9 +6,7 @@
   "allowedHeaders": ["Content-Type", "my-custom-header"],
   "webServices": {
     "test": {
-      "responses": {
-        "test response"
-      },
+      "mockFile": "test.json",
       "latency": 20,
       "verbs": ["get"]
     }
