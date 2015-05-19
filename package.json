@@ -1,0 +1,39 @@
+{
+  "name": "gulp-apimocker",
+  "version": "0.0.1",
+  "description": "gulp plugin to run apimocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": {
+    "name": "Wu Junhong",
+    "email": "kent0113@163.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:kent-wu/gulp-apimocker.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "apimocker",
+    "gulpplugin",
+    "plugin"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kent-wu/gulp-apimocker/issues"
+  },
+  "dependencies": {
+    "apimocker": "~0.4.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "mocha": "~2.2.5",
+    "supertest": "~1.0.1"
+  }
+}
+
+
