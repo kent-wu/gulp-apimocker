@@ -4,8 +4,8 @@ var mocker = require('../index');
 describe('gulp-apimocker', function () {
   it('start', function () {
   	var options = {
-      config: './test.conf.json',
-      mockDirectory: './test/mocks'
+      config: 'test/test.conf.json',
+      mockDirectory: 'test/mocks'
   	}
     mocker.start(options);
 
