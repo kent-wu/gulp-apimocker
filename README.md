@@ -39,8 +39,3 @@ Set the path to your mock files.  Path can be absolute, or relative to the gulpf
 
 ## License
 This projected is licensed under the terms of the MIT license.
-
-## Versions
-#### 0.0.1
-first version
-
