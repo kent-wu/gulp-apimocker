@@ -21,19 +21,17 @@
     "plugin"
   ],
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=8.0.0"
   },
   "bugs": {
     "url": "https://github.com/kent-wu/gulp-apimocker/issues"
   },
   "dependencies": {
-    "apimocker": "~0.4.2"
+    "apimocker": "~1.0.3"
   },
   "devDependencies": {
-    "gulp": "~3.8.11",
-    "mocha": "~2.2.5",
-    "supertest": "~1.0.1"
+    "gulp": "~3.9.1",
+    "mocha": "~5.2.0",
+    "supertest": "~3.3.0"
   }
 }
-
-
