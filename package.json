@@ -21,7 +21,7 @@
     "plugin"
   ],
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=8.0.0"
   },
   "bugs": {
     "url": "https://github.com/kent-wu/gulp-apimocker/issues"
